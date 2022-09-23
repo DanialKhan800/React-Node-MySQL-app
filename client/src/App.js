@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1 className="App-title">Customers List from MySQL database</h1>
+      <h1 className="App-title">Custom New List from MySQL database</h1>
       <ShowCustomers></ShowCustomers>
     </div>
   );
